@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my React Projects**
 
-- 🌱 I’m currently learning **ReactJs & Tailwind**
+- 🌱 I’m currently learning **Express & MongoDb**
 
 - 👯 I’m looking to collaborate on **my React Projects**
 
